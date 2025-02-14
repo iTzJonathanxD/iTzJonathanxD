@@ -4,11 +4,12 @@
 </div>
 
 <p align="left">
-    Soy un apasionado de la programación y el desarrollo de software.  
-    En mi tiempo libre, disfruto creando proyectos, explorando nuevas tecnologías y mejorando mis habilidades en <b>Java, TypeScript, Angular, React</b> y más.  
+    🚀 Desarrollador con pasión por la tecnología y la innovación.  
+    Disfruto creando soluciones eficientes y escalables, explorando nuevas tecnologías y perfeccionando mis habilidades en <b>Java, TypeScript, Angular, React</b> y más.  
     <br><br>
-    🔹 Me gusta trabajar con <b>backend y frontend</b>, creando aplicaciones eficientes y bien estructuradas.  
-    🔹 Siempre estoy aprendiendo algo nuevo y buscando mejorar mis proyectos.  
+    🔹 Especializado en el desarrollo <b>backend y frontend</b>, con enfoque en arquitectura limpia y buenas prácticas.  
+    🔹 Apasionado por la <b>optimización del rendimiento</b> y la mejora continua de mis proyectos.  
+    🔹 Siempre en busca de nuevos retos y oportunidades para aprender y crecer profesionalmente.  
 </p>
 
 
