@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<div align="center">
+    <h2>Hola 👋</h2>
+    <img width="1850" height="260" align="center" src="https://i.imgur.com/5A6zfbS.png" alt="EvilG-MC"/>
+</div>
 <!--
 **iTzJonathanxD/iTzJonathanxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
