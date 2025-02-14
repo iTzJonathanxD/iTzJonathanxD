@@ -1,6 +1,6 @@
 <div align="center">
     <h2>Hola 👋</h2>
-    <img width="1850" height="260" align="center" src="https://i.imgur.com/5A6zfbS.png" alt="EvilG-MC"/>
+    <img width="1850" height="260" align="center" src="https://imgur.com/a/gyCND19" alt="iTzJonathanxD"/>
 </div>
 
 <p align="left">
