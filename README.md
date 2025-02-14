@@ -4,7 +4,9 @@
 </div>
 
 <p align="left">
+    
 Soy un apasionado de la programación y el desarrollo de software. En mi tiempo libre, disfruto creando proyectos, explorando nuevas tecnologías y mejorando mis habilidades en Java, TypeScript, Angular, React y más.
+
     🔹 Me gusta trabajar con backend y frontend, creando aplicaciones eficientes y bien estructuradas.
     🔹 Siempre estoy aprendiendo algo nuevo y buscando mejorar mis proyectos.
 </p> 
