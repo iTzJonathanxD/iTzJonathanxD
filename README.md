@@ -4,13 +4,16 @@
 </div>
 
 <p align="left">
-    🚀 Desarrollador con pasión por la tecnología y la innovación.  
-    Disfruto creando soluciones eficientes y escalables, explorando nuevas tecnologías y perfeccionando mis habilidades en <b>Java, TypeScript, Angular, React</b> y más.  
-    <br><br>
-    🔹 Especializado en el desarrollo <b>backend y frontend</b>, con enfoque en arquitectura limpia y buenas prácticas.  
-    🔹 Apasionado por la <b>optimización del rendimiento</b> y la mejora continua de mis proyectos.  
-    🔹 Siempre en busca de nuevos retos y oportunidades para aprender y crecer profesionalmente.  
+    🚀 Desarrollador de software con un enfoque en la creación de soluciones eficientes y escalables.  
+    Me especializo en tecnologías como <b>Java, TypeScript, Angular, React</b> y más, siempre buscando optimizar el rendimiento y la arquitectura de mis proyectos.  
 </p>
+
+<ul align="left">
+    <li><b>Desarrollo Full Stack:</b> Experiencia en backend y frontend, aplicando principios de arquitectura limpia y buenas prácticas.</li>
+    <li><b>Optimización y Escalabilidad:</b> Enfoque en la eficiencia del código, rendimiento y mantenibilidad.</li>
+    <li><b>Aprendizaje Continuo:</b> Siempre explorando nuevas tecnologías y metodologías para mejorar mis habilidades.</li>
+    <li><b>Colaboración y Trabajo en Equipo:</b> Comprometido con el desarrollo de soluciones en entornos colaborativos.</li>
+</ul>
 
 
 <!--
