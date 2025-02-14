@@ -1,9 +1,6 @@
 <div align="center">
     <h2>Hola 👋</h2>
     <img align="center" src="https://imgur.com/rkdl7ea.gif" alt="iTzJonathanxD"/>
-    <iframe src="https://assets.pinterest.com/ext/embed.html?id=15199717485611291" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
-
-
 </div>
 
 <p align="left">
