@@ -1,6 +1,6 @@
 <div align="center">
     <h2>Hola 👋</h2>
-    <img width="1850" height="260" align="center" src="https://imgur.com/a/gyCND19" alt="iTzJonathanxD"/>
+    <blockquote class="imgur-embed-pub" lang="en" data-id="a/gyCND19" data-context="false" ><a href="//imgur.com/a/gyCND19"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
 
 <p align="left">
