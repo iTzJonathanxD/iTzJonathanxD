@@ -1,6 +1,6 @@
 <div align="center">
     <h2>Hola 👋</h2>
-    <img align="center" src="https://imgur.com/rkdl7ea.gif" alt="iTzJonathanxD"/>
+    <img align="center" src="https://imgur.com/jiu4UHg.png" alt="iTzJonathanxD"/>
 </div>
 
 <p align="left">
@@ -12,7 +12,6 @@
     <li><b>Desarrollo Full Stack:</b> Experiencia en backend y frontend, aplicando principios de arquitectura limpia y buenas prácticas.</li>
     <li><b>Optimización y Escalabilidad:</b> Enfoque en la eficiencia del código, rendimiento y mantenibilidad.</li>
     <li><b>Aprendizaje Continuo:</b> Siempre explorando nuevas tecnologías y metodologías para mejorar mis habilidades.</li>
-    <li><b>Colaboración y Trabajo en Equipo:</b> Comprometido con el desarrollo de soluciones en entornos colaborativos.</li>
 </ul>
 
 
