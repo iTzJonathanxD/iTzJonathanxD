@@ -1,6 +1,6 @@
 <div align="center">
     <h2>Hola 👋</h2>
-    <img  width="910" height="360" align="center" src="https://imgur.com/jiu4UHg.png" alt="iTzJonathanxD"/>
+    <img width="1850" height="260" align="center" src="https://i.imgur.com/5A6zfbS.png" alt="EvilG-MC"/>
 </div>
 
 <p align="left">
@@ -15,21 +15,29 @@
 </ul>
 
 
-<!--
-**iTzJonathanxD/iTzJonathanxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://github.com/iTzJonathanxD/iTzJonathanxD/blob/main/assets/stats.gif" width="30" height="30" /> Stats 
 
-Here are some ideas to get you started:
+<table>    
+<tr>
+  <td align="center">
+    <img width="500" src="https://streak-stats.demolab.com?user=gurjeetsinghvirdee&hide_border=true&border_radius=4.4&date_format=j%20M%5B%20Y%5D&ring=147FEB&fire=147FEB&currStreakLabel=147FEB&sideLabels=147FEB" />
+  </td>
+  <td align="center">
+   <a href="">
+    <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=iTzJonathanxD" alt="wakatime stats" />
+   </a>
+  </td>
+</tr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<tr>
+  <td align="center">
+    <img width="500" src="https://github-readme-stats.vercel.app/api?username=iTzJonathanxD&show=discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&rank_icon=percentile" />
+  </td>
+  <td align="center">
+   <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTzJonathanxD&langs_count=8&layout=compact" alt="Lang Count" />
+  </td>
+</tr>
+</table>
 
 
 <!--
