@@ -3,11 +3,8 @@
 </div>
 
 <p align="left">
-    <a href="https://twitter.com/@iTzJonathanxD" target="_blank">
-        <img src="https://img.shields.io/badge/NewJustEvil-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="@iTzJonathanxD" />
-    </a>
     <a href="https://discordapp.com/users/355189082831192084" target="_blank">
-        <img src="https://img.shields.io/badge/JustEvil-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="iTzJonathanxD" />
+        <img src="https://img.shields.io/badge/iTzJonathanxD-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="iTzJonathanxD" />
     </a>
 </p>
 
