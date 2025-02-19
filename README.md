@@ -17,7 +17,7 @@
 
 
 
-## <img src="https://github.com/iTzJonathanxD/iTzJonathanxD/blob/main/assets/skills.gif" width="35" height="30" /> Competencies
+## <img src="https://github.com/iTzJonathanxD/iTzJonathanxD/blob/main/assets/skills.gif" width="35" height="30" /> Competencias
 
 <table>
 	<tbody>
@@ -75,15 +75,25 @@
 				<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 				<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
 				<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-                <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+             			<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 			</td>
 		</tr>
+		<tr>
+			<th>Hostings</th>
+			<td>
+				<img src="https://img.shields.io/badge/cPanel-black.svg?&style=for-the-badge&logo=cpanel&background=ffffff" alt="cpanel" />
+				<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase" alt="firebase" />
+				<img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" alt="Git" />
+             			<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Visual Studio Code" />
+			</td>
+		</tr>
+		
 	</tbody>
 </table>
 
 
 
-## <img src="https://github.com/iTzJonathanxD/iTzJonathanxD/blob/main/assets/stats.gif" width="30" height="30" /> Stats 
+## <img src="https://github.com/iTzJonathanxD/iTzJonathanxD/blob/main/assets/stats.gif" width="30" height="30" /> Status 
 
 <p align="center">
   <img width="600" src="https://streak-stats.demolab.com?user=gurjeetsinghvirdee&hide_border=true&border_radius=4.4&date_format=j%20M%5B%20Y%5D&ring=147FEB&fire=147FEB&currStreakLabel=147FEB&sideLabels=147FEB" />
