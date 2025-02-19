@@ -17,21 +17,22 @@
 
 ## <img src="https://github.com/iTzJonathanxD/iTzJonathanxD/blob/main/assets/stats.gif" width="30" height="30" /> Stats 
 
-<table>    
-<tr>
-  <td>
-    <img width="600" src="https://streak-stats.demolab.com?user=gurjeetsinghvirdee&hide_border=true&border_radius=4.4&date_format=j%20M%5B%20Y%5D&ring=147FEB&fire=147FEB&currStreakLabel=147FEB&sideLabels=147FEB" />
-  </td>
+<p align="center">
+  <img width="600" src="https://streak-stats.demolab.com?user=gurjeetsinghvirdee&hide_border=true&border_radius=4.4&date_format=j%20M%5B%20Y%5D&ring=147FEB&fire=147FEB&currStreakLabel=147FEB&sideLabels=147FEB" />
+</p>
 
-<tr>
-  <td align="center">
-    <img width="500" src="https://github-readme-stats.vercel.app/api?username=iTzJonathanxD&show=discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&rank_icon=percentile" />
-  </td>
-  <td align="center">
-   <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTzJonathanxD&langs_count=8&layout=compact" alt="Lang Count" />
-  </td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="500" src="https://github-readme-stats.vercel.app/api?username=iTzJonathanxD&show=discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&rank_icon=percentile" />
+    </td>
+    <td align="center">
+      <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTzJonathanxD&langs_count=8&layout=compact" alt="Lang Count" />
+    </td>
+  </tr>
 </table>
+
+
 
 
 <!--
