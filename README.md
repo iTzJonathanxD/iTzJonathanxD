@@ -21,13 +21,6 @@
 <tr>
   <td align="center">
     <img width="500" src="https://streak-stats.demolab.com?user=gurjeetsinghvirdee&hide_border=true&border_radius=4.4&date_format=j%20M%5B%20Y%5D&ring=147FEB&fire=147FEB&currStreakLabel=147FEB&sideLabels=147FEB" />
-  </td>
-  <td align="center">
-   <a href="">
-    <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=iTzJonathanxD" alt="wakatime stats" />
-   </a>
-  </td>
-</tr>
 
 <tr>
   <td align="center">
