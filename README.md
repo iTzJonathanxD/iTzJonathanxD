@@ -1,6 +1,15 @@
 <div align="center">
-    <h2>Hola 👋</h2>
+   <h1>Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">, Soy Jonathan Marin</h1>
 </div>
+
+<p align="left">
+    <a href="https://twitter.com/@iTzJonathanxD" target="_blank">
+        <img src="https://img.shields.io/badge/NewJustEvil-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="@iTzJonathanxD" />
+    </a>
+    <a href="https://discordapp.com/users/355189082831192084" target="_blank">
+        <img src="https://img.shields.io/badge/JustEvil-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="iTzJonathanxD" />
+    </a>
+</p>
 
 <p align="left">
     🚀 Desarrollador de software con un enfoque en la creación de soluciones eficientes y escalables.  
