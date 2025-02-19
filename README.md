@@ -20,7 +20,7 @@
 <table>    
 <tr>
   <td>
-    <img width="500" src="https://streak-stats.demolab.com?user=gurjeetsinghvirdee&hide_border=true&border_radius=4.4&date_format=j%20M%5B%20Y%5D&ring=147FEB&fire=147FEB&currStreakLabel=147FEB&sideLabels=147FEB" />
+    <img width="1000" src="https://streak-stats.demolab.com?user=gurjeetsinghvirdee&hide_border=true&border_radius=4.4&date_format=j%20M%5B%20Y%5D&ring=147FEB&fire=147FEB&currStreakLabel=147FEB&sideLabels=147FEB" />
 
 <tr>
   <td align="center">
