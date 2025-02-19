@@ -2,11 +2,6 @@
    <h1>Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">, Soy Jonathan Marin</h1>
 </div>
 
-<p align="left">
-    <a href="https://discordapp.com/users/355189082831192084" target="_blank">
-        <img src="https://img.shields.io/badge/iTzJonathanxD-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="iTzJonathanxD" />
-    </a>
-</p>
 
 <p align="left">
     🚀 Desarrollador de software con un enfoque en la creación de soluciones eficientes y escalables.  
@@ -19,7 +14,12 @@
     <li><b>Aprendizaje Continuo:</b> Siempre explorando nuevas tecnologías y metodologías para mejorar mis habilidades.</li>
 </ul>
 
-
+####  :speech_balloon: ¿Tienes preguntas o quieres colaborar? ¡Contáctame en:
+<p align="left">
+    <a href="https://discordapp.com/users/355189082831192084" target="_blank">
+        <img src="https://img.shields.io/badge/iTzJonathanxD-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="iTzJonathanxD" />
+    </a>
+</p>
 
 
 ## <img src="https://github.com/iTzJonathanxD/iTzJonathanxD/blob/main/assets/skills.gif" width="35" height="30" /> Competencias
